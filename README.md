@@ -18,6 +18,10 @@
   <img align="center" alt="Rafa-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">
 </div>
 
+##
+<div>  
+  <a href="https://www.linkedin.com/in/rrpereira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 <!--
 **rafa-rp/rafa-rp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
